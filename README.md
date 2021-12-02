@@ -177,6 +177,7 @@ updateTokenUri
 | nft_address | String | NFT合约地址 |
 | nft_token_id | String | NFT资产ID， |
 | nft_tokenuri | String | NFT在IPFS存储后链接 |
+| nft_token_order_id | String | NFT在crust的订单id |
 
 
 返回参数
